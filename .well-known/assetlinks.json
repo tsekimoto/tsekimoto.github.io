@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.tsekimoto.twa",
+    "sha256_cert_fingerprints": ["B8:15:AD:6D:8C:EA:F3:B4:FB:90:4B:B9:CB:AD:70:7D:11:10:5D:EF:33:06:36:E4:50:AE:B0:B5:EB:61:33:2F"]
+  }
+}]
